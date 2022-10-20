@@ -29,5 +29,5 @@ variable "user" {
 
 variable "test" {
     description = "Double slash test"
-    default = "wubba labba dub"
+    default = "wubba labba dub dub"
 }
